@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**shashwatsrii/shashwatsrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there 👋
+I am Shashwat, not very regular but productive.
 
 - 🔭 I’m currently working on Machine Learning Fundamentals and Data Analysis.
 - 🌱 I’m currently learning Exploratory Data Analysis and Neural Networks.
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Mail: Shashwatswork@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Sundays are meant to relax!
--->
