@@ -9,3 +9,6 @@ I am Shashwat, not very regular but productive.
 - 📫 How to reach me: Mail: Shashwatswork@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Sundays are meant to relax!
+
+- <h1>Profile Visits</h1>
+<img src="https://profile-counter.glitch.me/shashwatsrii/count.svg" />
