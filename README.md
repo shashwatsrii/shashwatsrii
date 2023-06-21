@@ -10,5 +10,5 @@ I am Shashwat, not very regular but productive.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Sundays are meant to relax!
 
-- <h5>Profile Visits</h5>
+- <h5><b>Profile Visits</b></h5>
 <img src="https://profile-counter.glitch.me/shashwatsrii/count.svg" />
