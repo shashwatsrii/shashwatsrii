@@ -10,6 +10,6 @@ I am Shashwat, not very regular but productive.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Sundays are meant to relax!
 
-<a href = "https://drive.google.com/file/d/17Zq4Tt6xLBDJ02S8FJjWAOYikDZ4Ev0Z/view?usp=drive_link" target=none style='text-decoration: none;'><b> Click to open Resume</b></a>
+<a href = "https://drive.google.com/file/d/17Zq4Tt6xLBDJ02S8FJjWAOYikDZ4Ev0Z/view?usp=drive_link" target=blank style='text-decoration: none;'><b> Click to open Resume</b></a>
 - <h5><b>Profile Visits</b></h5>
 <img src="https://profile-counter.glitch.me/shashwatsrii/count.svg" />
