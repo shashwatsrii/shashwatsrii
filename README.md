@@ -1,15 +1,15 @@
 # Hey Everyone! I'm [Shashwat Srivastava!](https://github.com/shashwatsrii)👋
 
-<h3><b><samp>About Me</samp></b></h3>
-- 🧑🏻‍💻 Machine Learning Intern @ Culinda.Inc (Remote)
-- 🧑🏻‍💻 Ex - ML Summer Intern @ Amrita Vishwa Vidyapeetham, Kerala (On-site)
-- 💻 Information Technology Major.
-- 🔭 Machine Learning Engineer
-- 🔭 Web Developer 
-- 💬 Ask me about Machine Learning, Deep Learning, Data Analysis, ReactJS, Web Development and Coding.
-- 📫 Reach me at : shashwatswork@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Sundays are meant to relax!
+<h3><b><samp>About Me</samp></b></h3> 
+- 🧑🏻‍💻 Machine Learning Intern @ Culinda.Inc (Remote) <br>
+- 🧑🏻‍💻 Ex - ML Summer Intern @ Amrita Vishwa Vidyapeetham, Kerala (On-site)<br>
+- 💻 Information Technology Major.<br>
+- 🔭 Machine Learning Engineer<br>
+- 🔭 Web Developer <br>
+- 💬 Ask me about Machine Learning, Deep Learning, Data Analysis, ReactJS, Web Development and Coding.<br>
+- 📫 Reach me at : shashwatswork@gmail.com<br>
+- 😄 Pronouns: he/him<br>
+- ⚡ Fun fact: Sundays are meant to relax!<br>
 
 <a href = "https://drive.google.com/file/d/17Zq4Tt6xLBDJ02S8FJjWAOYikDZ4Ev0Z/view?usp=drive_link" target="_blank" style='text-decoration: none;'><b> Click to open Resume</b></a>
 - <h5><b>Profile Visits</b></h5>
