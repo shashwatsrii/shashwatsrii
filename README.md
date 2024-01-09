@@ -10,7 +10,7 @@
 - 📫 Reach me at : shashwatswork@gmail.com<br>
 - 😄 Pronouns: he/him<br>
 - ⚡ Fun fact: Sundays are meant to relax!<br>
-Hellouuu
+
 <a href = "https://drive.google.com/file/d/17Zq4Tt6xLBDJ02S8FJjWAOYikDZ4Ev0Z/view?usp=drive_link" target="_blank" style='text-decoration: none;'><b> Click to open Resume</b></a>
 - <h5><b>Profile Visits</b></h5>
 <img src="https://profile-counter.glitch.me/shashwatsrii/count.svg" />
