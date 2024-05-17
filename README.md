@@ -1,7 +1,7 @@
 # Hey Everyone! I'm [Shashwat Srivastava!](https://github.com/shashwatsrii)👋
 
 <h3><b><samp>About Me</samp></b></h3> 
-- 🧑🏻‍💻 Machine Learning Intern @ Culinda.Inc (Remote) <br>
+- 🧑🏻‍💻 Software Engineer Intern @ Culinda.Inc (Remote) <br>
 - 🧑🏻‍💻 Ex - ML Summer Intern @ Amrita Vishwa Vidyapeetham, Kerala (On-site)<br>
 - 💻 Information Technology Major.<br>
 - 🔭 Machine Learning Engineer<br>
