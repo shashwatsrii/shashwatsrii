@@ -4,9 +4,8 @@
 - 🧑🏻‍💻 Software Engineer Intern @ Culinda.Inc (Remote) <br>
 - 🧑🏻‍💻 Ex - ML Summer Intern @ Amrita Vishwa Vidyapeetham, Kerala (On-site)<br>
 - 💻 Information Technology Major.<br>
-- 🔭 Machine Learning Engineer<br>
-- 🔭 Web Developer <br>
-- 💬 Ask me about Machine Learning, Deep Learning, Data Analysis, ReactJS, Web Development and Coding.<br>
+- 🔭 Software Engineer | Development | Machine Learning<br>
+- 🔭 Full Stack Developer (React, Node, FastAPI) <br>
 - 📫 Reach me at : shashwatswork@gmail.com<br>
 - 😄 Pronouns: he/him<br>
 - ⚡ Fun fact: Sundays are meant to relax!<br>
