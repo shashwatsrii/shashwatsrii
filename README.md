@@ -10,7 +10,7 @@
 - 😄 Pronouns: he/him<br>
 - ⚡ Fun fact: Sundays are meant to relax!<br>
 
-<a href = "https://drive.google.com/file/d/17Zq4Tt6xLBDJ02S8FJjWAOYikDZ4Ev0Z/view?usp=drive_link" target="_blank" style='text-decoration: none;'><b> Click to open Resume</b></a>
+<a href = "https://drive.google.com/file/d/1k0c7s73TdzMEfGHArIL7SHOnH5OqIW2z/view?usp=sharing" target="_blank" style='text-decoration: none;'><b> Click to open Resume</b></a>
 - <h5><b>Profile Visits</b></h5>
 <img src="https://profile-counter.glitch.me/shashwatsrii/count.svg" />
 <h3 align="left">Connect with me:</h3>
