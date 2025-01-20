@@ -1,7 +1,6 @@
 # Hey Everyone! I'm [Shashwat Srivastava!](https://github.com/shashwatsrii)👋
 
 <h3><b><samp>About Me</samp></b></h3> 
-- 🧑🏻‍💻 SWE Intern - Backend @ AtomicWork (On-site Bangalore) <br>
 - 🧑🏻‍💻 Ex - SWE Intern @ Culinda.Inc (Remote) <br>
 - 🧑🏻‍💻 Ex - ML Summer Intern @ Amrita Vishwa Vidyapeetham, Kerala (On-site)<br>
 - 💻 Information Technology Major.<br>
